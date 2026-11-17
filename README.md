@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24299142.svg)](https://doi.org/10.5281/zenodo.24299142)
+
+> **Official Permanent Record (CERN Zenodo DOI):** `https://doi.org/10.5281/zenodo.24299142`
+
 # 動態心理分級與無縫危機轉銜系統 — 設計總綱（全球通用完整版 v1.0）
 **Dynamic Psychological Grading & Seamless Crisis Transition System — Master Architecture Blueprint (Global Universal Edition)**
 
